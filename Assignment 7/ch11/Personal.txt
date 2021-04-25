@@ -1,0 +1,10 @@
+<video id="videoplayer" width="480" height="270" controls autoplay>
+    
+	<source src="media/hobbsgrove.mp4">
+    
+	<source src="media/hobbsgrove.webm"
+            type='video/webm; codecs="vp8, vorbis"'>
+    
+	<source src="media/hobbsgrove.ogv"
+            type='video/ogg; codecs="theora, vorbis"'>
+	</video>
